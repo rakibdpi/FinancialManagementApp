@@ -1,0 +1,14 @@
+D:\Personal\AssignmentApp\FinancialManagementApp\FinancialManagement\App.Core\bin\Debug\App.Core.dll.config
+D:\Personal\AssignmentApp\FinancialManagementApp\FinancialManagement\App.Core\bin\Debug\App.Core.dll
+D:\Personal\AssignmentApp\FinancialManagementApp\FinancialManagement\App.Core\bin\Debug\App.Core.pdb
+D:\Personal\AssignmentApp\FinancialManagementApp\FinancialManagement\App.Core\bin\Debug\AutoMapper.dll
+D:\Personal\AssignmentApp\FinancialManagementApp\FinancialManagement\App.Core\bin\Debug\EntityFramework.dll
+D:\Personal\AssignmentApp\FinancialManagementApp\FinancialManagement\App.Core\bin\Debug\EntityFramework.SqlServer.dll
+D:\Personal\AssignmentApp\FinancialManagementApp\FinancialManagement\App.Core\bin\Debug\AutoMapper.xml
+D:\Personal\AssignmentApp\FinancialManagementApp\FinancialManagement\App.Core\bin\Debug\EntityFramework.xml
+D:\Personal\AssignmentApp\FinancialManagementApp\FinancialManagement\App.Core\bin\Debug\EntityFramework.SqlServer.xml
+D:\Personal\AssignmentApp\FinancialManagementApp\FinancialManagement\App.Core\obj\Debug\App.Core.csprojAssemblyReference.cache
+D:\Personal\AssignmentApp\FinancialManagementApp\FinancialManagement\App.Core\obj\Debug\App.Core.csproj.CoreCompileInputs.cache
+D:\Personal\AssignmentApp\FinancialManagementApp\FinancialManagement\App.Core\obj\Debug\App.Core.csproj.CopyComplete
+D:\Personal\AssignmentApp\FinancialManagementApp\FinancialManagement\App.Core\obj\Debug\App.Core.dll
+D:\Personal\AssignmentApp\FinancialManagementApp\FinancialManagement\App.Core\obj\Debug\App.Core.pdb
